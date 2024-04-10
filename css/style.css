@@ -1,0 +1,43 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul.list-menu{
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+    align-items: center;
+
+    
+}
+
+
+
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    gap: 162px;
+    align-items: center;
+}
+
+input.item {
+    background: green;
+    color: white;
+    padding: 10px;
+    width: 127px;
+}
+
+ul.list-menu a {
+   color: black;
+   background-color: white;
+   
+}
+
+
+li.item a {
+    text-decoration: none;
+}
